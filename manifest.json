@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Speech-to-Text ai Extension",
+    "version": "1.0",
+    "description": "Convert speech to text in your browser",
+    "action": {
+      "default_icon": "logo192.png",
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "activeTab",
+      "audioCapture"
+    ]
+  }
